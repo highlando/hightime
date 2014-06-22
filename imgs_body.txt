@@ -1,0 +1,10 @@
+<img src="parosprep/5.jpg" class="img-responsive">
+<img src="parosprep/6.jpg" class="img-responsive">
+<img src="parosprep/7.jpg" class="img-responsive">
+<img src="parosprep/8.jpg" class="img-responsive">
+<img src="parosprep/11.jpg" class="img-responsive">
+<img src="parosprep/13.jpg" class="img-responsive">
+<img src="parosprep/16.jpg" class="img-responsive">
+<img src="parosprep/17.jpg" class="img-responsive">
+<img src="parosprep/18.jpg" class="img-responsive">
+<img src="parosprep/19.jpg" class="img-responsive">
